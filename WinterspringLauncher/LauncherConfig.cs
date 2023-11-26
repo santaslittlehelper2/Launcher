@@ -37,14 +37,8 @@ public class LauncherConfig : VersionedBaseConfig
         new ServerInfo
         {
             Name = "Everlook (Europe)",
-            RealmlistAddress = "logon.everlook.org",
-            UsedInstallation = "Everlook EU 1.14.2 installation"
-        },
-        new ServerInfo
-        {
-            Name = "Everlook (Asia)",
-            RealmlistAddress = "asia.everlook-wow.net",
-            UsedInstallation = "Everlook Asia 1.14.2 installation",
+            RealmlistAddress = "109.72.57.7",
+            UsedInstallation = "Ragnarok EU 1.14.2 installation"
         },
         new ServerInfo
         {
